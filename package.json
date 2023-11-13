@@ -1,0 +1,20 @@
+{
+	"name": "projetsagent",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"type": "module",
+	"keywords": [],
+	"author": "Florian1606",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/inquirer": "9.0.x"
+	},
+	"dependencies": {
+		"chalk": "5.3.x",
+		"inquirer": "9.2.x"
+	}
+}
